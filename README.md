@@ -48,6 +48,8 @@ Esses itens essenciais para a criação de projetos com o Next.js, e com uma bas
 
 Node.js 18.18 ou maior.
 
+### Instalação
+
 1. Clonar o projeto
 
 ```
