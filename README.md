@@ -28,19 +28,19 @@ Esses itens essenciais para a criação de projetos com o Next.js, e com uma bas
 
 - Login
 
-![Página de login](public\login.png)
+![Página de login](public/login.png)
 
 - Dashboard
 
-![Página dashboard](public\dashboard.png)
+![Página dashboard](public/dashboard.png)
 
 - Lista de faturas
 
-![Lista de faturas](public\lista-faturas.png)
+![Lista de faturas](public/lista-faturas.png)
 
 - Formulário de faturas
 
-![Formulário de faturas](public\form-faturas.png)
+![Formulário de faturas](public/form-faturas.png)
 
 ## Guia de instalação
 
